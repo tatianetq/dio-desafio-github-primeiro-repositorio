@@ -1,0 +1,23 @@
+INICIO DO JOGO
+pinguim pai azul entra
+pinguim filho azul entra
+atravessa
+pinguim pai azul sai
+pinguim filho azul atravessa
+pinguim filho verde entra
+atravessa
+pinguim filho azul sai
+pinguim filho verde atravessa
+pinguim pai verde entra
+atravessa
+pinguim pai verde sai
+pinguim filho verde atravessa
+pinguim filho vermelho entra
+atravessa
+pinguim filho verde sai
+pinguim filho vermelho atravessa
+pinguim pai vermelho entra
+atravessa
+pinguim pai vermelho sai
+pinguim filho vermelho sai
+FIM DO JOGO

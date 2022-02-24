@@ -1,0 +1,15 @@
+programa
+{
+	
+	funcao inicio()
+	{
+	inteiro contador=0
+	cadeia cesta[][]={{"João","São Paulo","(11)99995241"},{"Maria","Alagoas","(16)99998596"},{"Tati","Manaus","(31)99998574"}}	
+
+	faca{
+		escreva("Nome: " + cesta[contador][0] + ", Cidade: " + cesta[contador][1] + ", Telefone: " + cesta[contador][2] + "\n")
+		contador++
+	}enquanto(contador<=2)
+	
+	}
+}
